@@ -151,7 +151,7 @@ public class MainActivity extends AppCompatActivity {
                             }
                             else
                             {
-                                tv.setText("Electrodes détachés");
+                                tv.setText("Pas de communication ou Electrodes détachés");
                                 tv.setTextColor(Color.RED);
                             }
                         });
